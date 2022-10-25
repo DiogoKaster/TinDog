@@ -6,6 +6,7 @@ body {
     background-color: #ff4c68;
     color: #fff;
 }
+
 .hero__container{
     height: 600px;
 }
@@ -78,4 +79,8 @@ h1 {
 
 .icones:hover {
     color: #ff4c68;
+}
+
+.icons {
+    padding: 200px;
 }
