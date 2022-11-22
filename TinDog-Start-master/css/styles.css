@@ -115,3 +115,64 @@ h2 {
     width: 15%;
     margin: 20px 20px 15px;
 }
+
+#pricing {
+    padding: 5% 7%;
+}
+
+.head {
+    margin-bottom: 5%;
+}
+
+.card-col {
+    padding: 0 3%;
+} 
+
+#cta {
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 4% 0% 4%;
+}
+
+#cta h3{
+    color: #fff;
+    font-family: 'Montserrat';
+    font-size: 4rem;
+    font-weight: 900;
+    width: 70%;
+    margin: auto;
+}
+
+.download-ctn {
+    margin: 4% 1% 2%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#footer {
+    color: #8f8f8f;
+    align-items: center;
+    text-align: center;
+    padding: 5% 5%;
+}
+
+.footer-icon {
+    color: black;
+    font-size: 1.2rem;
+    margin: 0 0.7% 2%;
+}
+
+.footer-icon:hover {
+    color: #8f8f8f;
+}
+
+@media (max-width: 1028px){
+    
+    .phone-img {
+        position: static;
+        transform: rotate(0);
+    }
+
+    #title {
+        text-align: center;
+    }
+}
